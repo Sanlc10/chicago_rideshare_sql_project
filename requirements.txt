@@ -21,6 +21,7 @@ jedi @ file:///C:/b/abs_3a2kbnlclc/croot/jedi_1733987412687/work
 jupyter_client @ file:///C:/Users/dev-admin/cr_pywin32-feedstock/jupyter_client_1737578476951/work
 jupyter_core @ file:///C:/Users/dev-admin/cr_pywin32-feedstock/jupyter_core_1737578310964/work
 kiwisolver @ file:///C:/b/abs_faf90xet7a/croot/kiwisolver_1737040915779/work
+lxml==5.3.0
 matplotlib==3.10.0
 matplotlib-inline @ file:///C:/Users/dev-admin/buildout/croot/matplotlib-inline_1732914206474/work
 mkl-service==2.4.0
